@@ -3,6 +3,7 @@
 Welcome to my cybersecurity learning journey!
 
 This repository documents my progress, notes, screenshots, and key takeaways while completing learning paths on TryHackMe. My goal is to build a strong foundation in cybersecurity, develop practical skills through hands-on labs, and prepare for advanced studies and a professional career in cybersecurity.
+Profile: https://tryhackme.com/p/marialindagomes6748
 
 ## 🎯 Goals
 
